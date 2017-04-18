@@ -18,4 +18,4 @@ Open the project with Unity3D 5.4
 - Admob		v7.8.1
 
 
-[id]: (http://i.imgur.com/deyTEJf.jpg)
+![alt tag](http://domain.com/path/to/img.png "Description goes here")
