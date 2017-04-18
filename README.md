@@ -18,4 +18,4 @@ Open the project with Unity3D 5.4
 - Admob		v7.8.1
 
 
-[Imgur](http://i.imgur.com/deyTEJf.jpg)
+http://i.imgur.com/deyTEJf.jpg
