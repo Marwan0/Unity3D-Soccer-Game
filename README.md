@@ -18,6 +18,9 @@ Open the project with Unity3D 5.4
 - Admob		v7.8.1
 
 
+- Goalkeeper and Forward have really efficient AI.
+
+
 ![alt tag](http://i.imgur.com/deyTEJf.jpg)
 
 ![alt tag](http://i.imgur.com/0QtPeUW.jpg)
