@@ -1,0 +1,51 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DA443A0A-D979-D553-0DF3-8CA1A74E4F80}") = "soccer", "Assembly-CSharp-firstpass.csproj", "{97375F99-C781-FEEF-DAA2-E7ABD33BBF7B}"
+EndProject
+Project("{DA443A0A-D979-D553-0DF3-8CA1A74E4F80}") = "soccer", "Assembly-CSharp.csproj", "{905933C0-3B90-1E54-B1D6-A80BF3B7F277}"
+EndProject
+Project("{DA443A0A-D979-D553-0DF3-8CA1A74E4F80}") = "soccer", "Assembly-CSharp-Editor.csproj", "{3283D57F-21A1-8565-12D9-0ECF8EA99CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97375F99-C781-FEEF-DAA2-E7ABD33BBF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97375F99-C781-FEEF-DAA2-E7ABD33BBF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97375F99-C781-FEEF-DAA2-E7ABD33BBF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97375F99-C781-FEEF-DAA2-E7ABD33BBF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{905933C0-3B90-1E54-B1D6-A80BF3B7F277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905933C0-3B90-1E54-B1D6-A80BF3B7F277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905933C0-3B90-1E54-B1D6-A80BF3B7F277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905933C0-3B90-1E54-B1D6-A80BF3B7F277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3283D57F-21A1-8565-12D9-0ECF8EA99CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3283D57F-21A1-8565-12D9-0ECF8EA99CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3283D57F-21A1-8565-12D9-0ECF8EA99CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3283D57F-21A1-8565-12D9-0ECF8EA99CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.EolMarker = Unix
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.EolMarker = Unix
+		$3.inheritsSet = VisualStudio
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 0eb4227c3ce0d42d6b6b508fb2443800
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ChamferBox002
+    100002: Object001
+    100004: SheK
+    100006: SheKHead
+    100008: SheKLArm1
+    100010: SheKLArm2
+    100012: SheKLArmCollarbone
+    100014: SheKLArmDigit11
+    100016: SheKLArmDigit12
+    100018: SheKLArmDigit21
+    100020: SheKLArmPalm
+    100022: SheKLLeg1
+    100024: SheKLLeg2
+    100026: SheKLLegDigit01
+    100028: SheKLLegPalm
+    100030: SheKLLegPlatform
+    100032: SheKNeck
+    100034: SheKPelvis
+    100036: SheKRArm1
+    100038: SheKRArm2
+    100040: SheKRArmCollarbone
+    100042: SheKRArmDigit11
+    100044: SheKRArmDigit12
+    100046: SheKRArmDigit21
+    100048: SheKRArmPalm
+    100050: SheKRibcage
+    100052: SheKRLeg1
+    100054: SheKRLeg2
+    100056: SheKRLegDigit01
+    100058: SheKRLegPalm
+    100060: SheKRLegPlatform
+    100062: SheKSpine1
+    100064: SheKSpine2
+    100066: //RootNode
+    100068: v_body
+    400000: ChamferBox002
+    400002: Object001
+    400004: SheK
+    400006: SheKHead
+    400008: SheKLArm1
+    400010: SheKLArm2
+    400012: SheKLArmCollarbone
+    400014: SheKLArmDigit11
+    400016: SheKLArmDigit12
+    400018: SheKLArmDigit21
+    400020: SheKLArmPalm
+    400022: SheKLLeg1
+    400024: SheKLLeg2
+    400026: SheKLLegDigit01
+    400028: SheKLLegPalm
+    400030: SheKLLegPlatform
+    400032: SheKNeck
+    400034: SheKPelvis
+    400036: SheKRArm1
+    400038: SheKRArm2
+    400040: SheKRArmCollarbone
+    400042: SheKRArmDigit11
+    400044: SheKRArmDigit12
+    400046: SheKRArmDigit21
+    400048: SheKRArmPalm
+    400050: SheKRibcage
+    400052: SheKRLeg1
+    400054: SheKRLeg2
+    400056: SheKRLegDigit01
+    400058: SheKRLegPalm
+    400060: SheKRLegPlatform
+    400062: SheKSpine1
+    400064: SheKSpine2
+    400066: //RootNode
+    400068: v_body
+    4300000: v_body
+    4300002: Object001
+    4300004: ChamferBox002
+    7400000: Kick
+    9500000: //RootNode
+    13700000: ChamferBox002
+    13700002: Object001
+    13700004: v_body
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Kick
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00219999999
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: SheKPelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0510002635, y: 0, z: .0255001318}
+        length: .063750349
+        modified: 1
+    - boneName: SheKLLeg1
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .273775429, y: 0, z: .136887714}
+        length: .342219442
+        modified: 1
+    - boneName: SheKRLeg1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .273780227, y: 0, z: .136890113}
+        length: .342225432
+        modified: 1
+    - boneName: SheKLLeg2
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .162567288, y: 0, z: .0812836438}
+        length: .203209177
+        modified: 1
+    - boneName: SheKRLeg2
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .162567452, y: 0, z: .0812837258}
+        length: .203209385
+        modified: 1
+    - boneName: SheKLLegPalm
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .111934431, y: 0, z: .0559672154}
+        length: .139918074
+        modified: 1
+    - boneName: SheKRLegPalm
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .111935742, y: 0, z: .0559678711}
+        length: .139919713
+        modified: 1
+    - boneName: SheKSpine1
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .173471332, y: 0, z: .0867356658}
+        length: .216839239
+        modified: 1
+    - boneName: SheKSpine2
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .321986794, y: 0, z: .160993397}
+        length: .402483642
+        modified: 1
+    - boneName: SheKNeck
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .316765457, y: 0, z: .158382729}
+        length: .395956963
+        modified: 1
+    - boneName: SheKHead
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .316765457, y: 0, z: .158382729}
+        length: .395956963
+        modified: 1
+    - boneName: SheKLArmCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .207140625, y: 0, z: .103570312}
+        length: .258925855
+        modified: 1
+    - boneName: SheKRArmCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .207140699, y: 0, z: .10357035}
+        length: .258925945
+        modified: 1
+    - boneName: SheKLArm1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .246354446, y: 0, z: .123177223}
+        length: .307943135
+        modified: 1
+    - boneName: SheKRArm1
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .246354446, y: 0, z: .123177223}
+        length: .307943135
+        modified: 1
+    - boneName: SheKLArm2
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .164153859, y: 0, z: .0820769295}
+        length: .205192402
+        modified: 1
+    - boneName: SheKRArm2
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .164151967, y: 0, z: .0820759833}
+        length: .205190033
+        modified: 1
+    - boneName: SheKLArmPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0820769295, y: 0, z: .0410384648}
+        length: .102596201
+        modified: 1
+    - boneName: SheKRArmPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0820759833, y: 0, z: .0410379916}
+        length: .102595016
+        modified: 1
+    - boneName: SheKLLegDigit01
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0472134463, y: 0, z: .0236067232}
+        length: .0590168275
+        modified: 1
+    - boneName: SheKRLegDigit01
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0472137816, y: 0, z: .0236068908}
+        length: .0590172447
+        modified: 1
+    - boneName: SheKLArmDigit11
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0806683525, y: 0, z: .0403341763}
+        length: .10083548
+        modified: 1
+    - boneName: SheKLArmDigit12
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0605012737, y: 0, z: .0302506369}
+        length: .0756266117
+        modified: 1
+    - boneName: SheKLArmDigit21
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .799999774, y: 0, z: .399999887}
+        length: 1
+        modified: 1
+    - boneName: SheKRArmDigit11
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0806647092, y: 0, z: .0403323546}
+        length: .10083092
+        modified: 1
+    - boneName: SheKRArmDigit12
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0604985394, y: 0, z: .0302492697}
+        length: .0756231919
+        modified: 1
+    - boneName: SheKRArmDigit21
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .799999774, y: 0, z: .399999887}
+        length: 1
+        modified: 1
+    skeleton:
+    - name: soccer_man1_walk
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SheKPelvis
+      position: {x: -2.43075192e-07, y: .648259997, z: -.0895474032}
+      rotation: {x: .558214605, y: -.49933061, z: -.493866593, w: .441770405}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: SheKLLeg1
+      position: {x: -.0220748577, y: .00586530939, z: .278193265}
+      rotation: {x: -.100280248, y: .992253006, z: -.0706364736, w: -.0197049361}
+      scale: {x: 1.00000083, y: 1.00000012, z: .999999523}
+      transformModified: 1
+    - name: SheKLLeg2
+      position: {x: -.342219144, y: -5.19910827e-07, z: -2.2277236e-06}
+      rotation: {x: .00289861811, y: -.0229188167, z: .231380612, w: .972588897}
+      scale: {x: .999991059, y: 1.00000012, z: 1.00000918}
+      transformModified: 1
+    - name: SheKLLegPalm
+      position: {x: -.203210816, y: -1.03595085e-07, z: -1.31316483e-07}
+      rotation: {x: -.022014197, y: .00927562825, z: -.435546696, w: .899849057}
+      scale: {x: .99999541, y: 1.00000441, z: 1.0000006}
+      transformModified: 1
+    - name: SheKLLegDigit01
+      position: {x: -.118035138, y: -8.52178346e-08, z: -3.16940714e-08}
+      rotation: {x: .00342576113, y: -.0121956542, z: -.498362064, w: .866876364}
+      scale: {x: .999991536, y: 1.00000811, z: .999999821}
+      transformModified: 1
+    - name: SheKRLeg1
+      position: {x: -.0145770144, y: -.0612643622, z: -.271933258}
+      rotation: {x: -.102892861, y: .993141413, z: -.0514645427, w: .0208449513}
+      scale: {x: .999999046, y: .999999881, z: 1.00000072}
+      transformModified: 1
+    - name: SheKRLeg2
+      position: {x: -.34222576, y: 3.71364877e-07, z: -2.10665166e-06}
+      rotation: {x: -.00297239446, y: .0229346734, z: .231433451, w: .972575784}
+      scale: {x: 1.00000906, y: 1.00000072, z: .999991179}
+      transformModified: 1
+    - name: SheKRLegPalm
+      position: {x: -.203207731, y: -3.68418114e-08, z: 5.0291419e-08}
+      rotation: {x: .0219757222, y: -.00941715948, z: -.43565625, w: .899795473}
+      scale: {x: 1.00000381, y: .999995947, z: 1.00000083}
+      transformModified: 1
+    - name: SheKRLegDigit01
+      position: {x: -.118033081, y: -3.35276127e-08, z: -6.95581548e-08}
+      rotation: {x: -.00350749469, y: .0123402774, z: -.498290598, w: .866915107}
+      scale: {x: 1.00000215, y: .999997497, z: .999999702}
+      transformModified: 1
+    - name: SheKSpine1
+      position: {x: -.0416531414, y: -.0479706414, z: .00528586656}
+      rotation: {x: -.0607517473, y: -.00601279782, z: .012569637, w: .998055637}
+      scale: {x: 1.00000024, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: SheKSpine2
+      position: {x: -.216839194, y: 6.03715307e-06, z: 1.22629572e-05}
+      rotation: {x: 1.3709066e-06, y: 5.96046377e-08, z: .0860056132, w: .996294618}
+      scale: {x: .999999821, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: SheKRibcage
+      position: {x: -.344777882, y: 6.33299351e-08, z: 4.08338252e-09}
+      rotation: {x: -1.28149964e-06, y: 4.47034765e-08, z: .0306043439, w: .999531507}
+      scale: {x: 1.00000072, y: 1.00000048, z: 1.00000012}
+      transformModified: 1
+    - name: SheKLArmCollarbone
+      position: {x: -8.0770053e-07, y: 3.45715989e-09, z: .13617532}
+      rotation: {x: -.0218494907, y: .688058972, z: -.0236366335, w: .724940419}
+      scale: {x: .999999881, y: .999999881, z: 1}
+      transformModified: 1
+    - name: SheKLArm1
+      position: {x: -.258925676, y: -4.28408384e-08, z: -1.62050128e-07}
+      rotation: {x: .0594020002, y: .0590186119, z: .0380083472, w: .995762765}
+      scale: {x: .999999464, y: .999999762, z: .99999994}
+      transformModified: 1
+    - name: SheKLArm2
+      position: {x: -.307943195, y: 1.3038516e-07, z: 2.50339508e-06}
+      rotation: {x: -.0103363115, y: -.0353602991, z: .0342633054, w: .99873358}
+      scale: {x: 1.00000072, y: 1.00000072, z: .999999523}
+      transformModified: 1
+    - name: SheKLArmPalm
+      position: {x: -.205192253, y: -1.67725375e-07, z: -2.07126141e-06}
+      rotation: {x: -.694732666, y: -.0469718911, z: .0229798146, w: .717364609}
+      scale: {x: 1.0000087, y: .999990642, z: .999999762}
+      transformModified: 1
+    - name: SheKLArmDigit11
+      position: {x: -.0411296822, y: -.00145964453, z: .0529538095}
+      rotation: {x: .269611329, y: .129775077, z: .0444207117, w: .953149974}
+      scale: {x: 1.00002313, y: .999989271, z: .999986231}
+      transformModified: 1
+    - name: SheKLArmDigit12
+      position: {x: -.100832254, y: -1.00079924e-05, z: 9.60705802e-06}
+      rotation: {x: -.025437953, y: -.255441874, z: -.206231609, w: .944230258}
+      scale: {x: 1.00001407, y: .999999464, z: .999985635}
+      transformModified: 1
+    - name: SheKLArmDigit21
+      position: {x: -.149777398, y: 1.19954348e-06, z: 2.86643626e-07}
+      rotation: {x: -.0225411523, y: .0279034954, z: .164548889, w: .985716403}
+      scale: {x: 1.00001168, y: .999987245, z: 1}
+      transformModified: 1
+    - name: SheKNeck
+      position: {x: -.0574622564, y: .00564555824, z: 2.03032213e-09}
+      rotation: {x: -8.62777051e-06, y: -.000101968631, z: -.0125774583, w: .999920845}
+      scale: {x: 1, y: .999999881, z: .99999994}
+      transformModified: 1
+    - name: SheKHead
+      position: {x: -.395956635, y: -4.47034836e-08, z: -1.85967224e-08}
+      rotation: {x: 2.26497627e-06, y: .000102415674, z: -.0484865047, w: .998823822}
+      scale: {x: .999999702, y: .99999994, z: .999999702}
+      transformModified: 1
+    - name: SheKRArmCollarbone
+      position: {x: -6.29019837e-07, y: -6.09525728e-08, z: -.136175245}
+      rotation: {x: -.0218495112, y: .688058853, z: .0236366373, w: -.724940598}
+      scale: {x: .999999762, y: .999999523, z: .999999642}
+      transformModified: 1
+    - name: SheKRArm1
+      position: {x: -.258925766, y: 1.67638063e-08, z: 8.64267349e-07}
+      rotation: {x: -.0594018884, y: -.059017539, z: .0380083732, w: .995762825}
+      scale: {x: .999999106, y: 1.00000024, z: 1.00000095}
+      transformModified: 1
+    - name: SheKRArm2
+      position: {x: -.307943285, y: 1.50874257e-07, z: -2.89082527e-06}
+      rotation: {x: .0109051419, y: .0396457762, z: -.0416001119, w: .998287857}
+      scale: {x: 1.00000238, y: .99999994, z: .999997199}
+      transformModified: 1
+    - name: SheKRArmPalm
+      position: {x: -.205189586, y: 7.46244041e-07, z: -7.08177686e-06}
+      rotation: {x: .694732606, y: .0469718166, z: .0229798369, w: .717364609}
+      scale: {x: 1.00000775, y: .999998748, z: .999992907}
+      transformModified: 1
+    - name: SheKRArmDigit11
+      position: {x: -.0411364138, y: -.00144372042, z: -.052952677}
+      rotation: {x: -.347461313, y: -.0486764908, z: .0750592574, w: .933416963}
+      scale: {x: 1.00000083, y: 1.00000644, z: .999992371}
+      transformModified: 1
+    - name: SheKRArmDigit12
+      position: {x: -.100829795, y: -6.44661486e-06, z: -6.22589141e-06}
+      rotation: {x: .0254321694, y: .255439162, z: -.206230849, w: .944231212}
+      scale: {x: 1.000018, y: .999990582, z: .999990702}
+      transformModified: 1
+    - name: SheKRArmDigit21
+      position: {x: -.149770007, y: -1.13388523e-05, z: 1.68074621e-08}
+      rotation: {x: .0225441828, y: -.0279001743, z: .164549246, w: .985716343}
+      scale: {x: 1.00000942, y: .999998033, z: .999992609}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 4005f93b436594bf783f89234ed89be8,
+    type: 3}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
