@@ -18,4 +18,4 @@ Open the project with Unity3D 5.4
 - Admob		v7.8.1
 
 
-![alt tag](http://imgur.com/0QtPeUW)
+![Soccer Game](http://imgur.com/0QtPeUW)
